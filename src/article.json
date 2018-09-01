@@ -1,0 +1,580 @@
+{
+  "results": [
+      {
+          "_id": "5b391dd9024d614b41d0617b",
+          "title": "Sam Claflin To Tackle Robin Friday Biopic",
+          "subtitle": "And returns for The Huntsman",
+          "furl": "sam-claflin-tackle-robin-friday-biopic",
+          "urlOverride": "sam-claflin-tackle-robin-friday-biopic",
+          "publications": [
+              {
+                  "_id": "5b391ae2024d614b41cf03cd",
+                  "name": "Empire",
+                  "furl": "empire",
+                  "hostname": {
+                      "_id": "59e4c911f9648a12d2ed73f5",
+                      "primary": "https://dev.empireonline.com"
+                  },
+                  "urlSlugHide": true,
+                  "amp": null,
+                  "preview": null,
+                  "stationCode": "",
+                  "language": "en",
+                  "composed": {
+                      "hostname": "59e4c911f9648a12d2ed73f5"
+                  }
+              }
+          ],
+          "primarySyndicatePosition": 0,
+          "categories": [
+              {
+                  "_id": "5b391ae2024d614b41cf03cc",
+                  "name": "News",
+                  "furl": "news",
+                  "parent": {
+                      "_id": "5b391ae2024d614b41cf03c5",
+                      "name": "Movies",
+                      "furl": "movies"
+                  },
+                  "composed": {
+                      "parent": "5b391ae2024d614b41cf03c5"
+                  }
+              }
+          ],
+          "pageTemplate": "article",
+          "published": {
+              "state": "published",
+              "wasPublished": true,
+              "scheduledStart": 1531810638,
+              "scheduledEnd": null
+          },
+          "target": "international",
+          "isLegacy": true,
+          "legacy": {
+              "_id": "55ce5f64de95cf0744c598e1",
+              "collection": "articles",
+              "publication": "empire",
+              "url": "movies/news/sam-claflin-tackle-robin-friday-biopic/",
+              "cms": "http://bantam.empireonline.com/edit.php?c=articles.content&_id=55ce5f64de95cf0744c598e1",
+              "urlHistory": [],
+              "createdAt": 1439588196087
+          },
+          "toplistFeature": false,
+          "excerpt": "A double dose of Sam Claflin news this fine Friday, and appropriately one of...",
+          "metaTitle": "",
+          "metaDescription": "",
+          "sourceText": "The Wrap/Deadline",
+          "sourceUrl": "http://www.thewrap.com/sam-claflin-returns-for-the-huntsman-without-kristen-stewarts-snow-white/",
+          "_layout": [
+              {
+                  "content": "Sam Claflin To Tackle Robin Friday Biopic",
+                  "type": "title"
+              },
+              {
+                  "content": "And returns for The Huntsman",
+                  "type": "subtitle"
+              },
+              {
+                  "content": {
+                      "_id": "5b391dd9024d614b41d0617a",
+                      "altText": "Sam Claflin To Tackle Robin Friday Biopic",
+                      "caption": "Sam Claflin To Tackle Robin Friday Biopic",
+                      "image": {
+                          "fileName": "friday.jpg",
+                          "name": "friday.jpg",
+                          "width": 640,
+                          "height": 480,
+                          "mimeType": "image/jpeg",
+                          "path": "one/empire-legacy/uploaded"
+                      },
+                      "credits": ""
+                  },
+                  "displayName": "Article Hero",
+                  "free": true,
+                  "name": "hero",
+                  "type": "heroImage",
+                  "handles": [
+                      {
+                          "width": 640,
+                          "height": 404.410480349345,
+                          "x": 0,
+                          "y": 0,
+                          "x2": 640,
+                          "y2": 404.410480349345,
+                          "_field": "heroImageLandscape"
+                      },
+                      {
+                          "width": 240.34985422740525,
+                          "height": 480,
+                          "x": 184.72303206997083,
+                          "y": 0,
+                          "x2": 425.0728862973761,
+                          "y2": 480,
+                          "_field": "heroImagePortrait"
+                      },
+                      {
+                          "width": 427.2886297376093,
+                          "height": 480,
+                          "x": 80.23323615160349,
+                          "y": 0,
+                          "x2": 507.5218658892128,
+                          "y2": 480,
+                          "_field": "heroImageThumb"
+                      },
+                      {
+                          "width": 640,
+                          "height": 404.410480349345,
+                          "x": 0,
+                          "y": 0,
+                          "x2": 640,
+                          "y2": 404.410480349345,
+                          "_field": "heroImageThumbLandscape"
+                      }
+                  ]
+              },
+              {
+                  "content": [],
+                  "type": "tags"
+              },
+              {
+                  "content": "A double dose of Sam Claflin news this fine Friday, and appropriately one of the stories is Friday-related. The actor will be playing Robin Friday, the ill-starred but supremely louche Reading and Cardiff striker, in the long-gestating film of his life. His agent has been busy because [Claflin has also signed on to return for ](http://www.thewrap.com/sam-claflin-returns-for-the-huntsman-without-kristen-stewarts-snow-white/)**[Snow White And The Huntsman](http://www.thewrap.com/sam-claflin-returns-for-the-huntsman-without-kristen-stewarts-snow-white/)**[ sequel, ](http://www.thewrap.com/sam-claflin-returns-for-the-huntsman-without-kristen-stewarts-snow-white/)**[The Huntsman](http://www.thewrap.com/sam-claflin-returns-for-the-huntsman-without-kristen-stewarts-snow-white/)**, in the role of Snow White’s love interest, William.",
+                  "displayName": "Body",
+                  "free": true,
+                  "name": "body",
+                  "type": "content"
+              },
+              {
+                  "content": "There’s no danger he’ll mix the two up and scythe down Snow White with a two-footed lunge, largely because Kristen Stewart is unlikely to return as the mirror-bothering princess. Instead Claflin, who’s earmarked for a small supporting role, will be joined by franchise newbies Jessica Chastain and Emily Blunt, with Charlize Theron back as Queen Ravenna. Nick Frost, Rob Brydon, Alexandra Roach and Sheridan Smith are also aboard.",
+                  "displayName": "Body",
+                  "free": true,
+                  "name": "body",
+                  "type": "content"
+              },
+              {
+                  "content": "[More intriguing is the Friday story](http://deadline.com/2015/05/sam-claflin-set-in-biopic-of-uk-soccer-legend-robin-friday-1201422508/). This one promises a tearaway tale of a volatile talent as dangerous on the dance floor as in the box. Claflin, a dedicated Norwich fan, will be depicting a renegade character who lit up both the football league and an enormous number of cigarettes during his ‘70s heyday. He died tragically young but burned brightly in a way that should lend itself to a fizzy biopic.",
+                  "displayName": "Body",
+                  "free": true,
+                  "name": "body",
+                  "type": "content"
+              },
+              {
+                  "content": "\"When I was writing The Robin Friday Story [in 1998] with Guigsy all those years ago\", said co-biographer Paolo Hewitt in 2012. \"I kept saying it would make a great film\". Hewitt and Julian Stone have penned the script, with Film Agency Wales contributing to funding.",
+                  "displayName": "Body",
+                  "free": true,
+                  "name": "body",
+                  "type": "content"
+              },
+              {
+                  "content": "The project is being directed by Henry-Alex Rubin (**Murderball**) and gets underway later this year in the UK.",
+                  "displayName": "Body",
+                  "free": true,
+                  "name": "body",
+                  "type": "content"
+              }
+          ],
+          "heroImage": [
+              {
+                  "_id": "5b391dd9024d614b41d0617a",
+                  "altText": "Sam Claflin To Tackle Robin Friday Biopic",
+                  "caption": "Sam Claflin To Tackle Robin Friday Biopic",
+                  "image": {
+                      "fileName": "friday.jpg",
+                      "name": "friday.jpg",
+                      "width": 640,
+                      "height": 480,
+                      "mimeType": "image/jpeg",
+                      "path": "one/empire-legacy/uploaded"
+                  },
+                  "credits": ""
+              }
+          ],
+          "content": [
+              "A double dose of Sam Claflin news this fine Friday, and appropriately one of the stories is Friday-related. The actor will be playing Robin Friday, the ill-starred but supremely louche Reading and Cardiff striker, in the long-gestating film of his life. His agent has been busy because [Claflin has also signed on to return for ](http://www.thewrap.com/sam-claflin-returns-for-the-huntsman-without-kristen-stewarts-snow-white/)**[Snow White And The Huntsman](http://www.thewrap.com/sam-claflin-returns-for-the-huntsman-without-kristen-stewarts-snow-white/)**[ sequel, ](http://www.thewrap.com/sam-claflin-returns-for-the-huntsman-without-kristen-stewarts-snow-white/)**[The Huntsman](http://www.thewrap.com/sam-claflin-returns-for-the-huntsman-without-kristen-stewarts-snow-white/)**, in the role of Snow White’s love interest, William.",
+              "There’s no danger he’ll mix the two up and scythe down Snow White with a two-footed lunge, largely because Kristen Stewart is unlikely to return as the mirror-bothering princess. Instead Claflin, who’s earmarked for a small supporting role, will be joined by franchise newbies Jessica Chastain and Emily Blunt, with Charlize Theron back as Queen Ravenna. Nick Frost, Rob Brydon, Alexandra Roach and Sheridan Smith are also aboard.",
+              "[More intriguing is the Friday story](http://deadline.com/2015/05/sam-claflin-set-in-biopic-of-uk-soccer-legend-robin-friday-1201422508/). This one promises a tearaway tale of a volatile talent as dangerous on the dance floor as in the box. Claflin, a dedicated Norwich fan, will be depicting a renegade character who lit up both the football league and an enormous number of cigarettes during his ‘70s heyday. He died tragically young but burned brightly in a way that should lend itself to a fizzy biopic.",
+              "\"When I was writing The Robin Friday Story [in 1998] with Guigsy all those years ago\", said co-biographer Paolo Hewitt in 2012. \"I kept saying it would make a great film\". Hewitt and Julian Stone have penned the script, with Film Agency Wales contributing to funding.",
+              "The project is being directed by Henry-Alex Rubin (**Murderball**) and gets underway later this year in the UK."
+          ],
+          "embeds": [],
+          "images": [],
+          "imageGalleries": [],
+          "pullQuotes": [],
+          "publicationDate": 1431046140000,
+          "author": {
+              "_id": "5b391d8a024d614b41d06075",
+              "fullname": "Phil de Semlyen",
+              "furl": "phil-de-semlyen"
+          },
+          "people": [
+              {
+                  "_id": "59e4c918f9648a12d2ed7774",
+                  "furl": "sam-claflin",
+                  "name": "Sam Claflin",
+                  "composed": {}
+              },
+              {
+                  "_id": "5b391bca024d614b41cf9732",
+                  "furl": "henry-alex-rubin",
+                  "name": "Henry-Alex Rubin",
+                  "composed": {}
+              },
+              {
+                  "_id": "59e4c920f9648a12d2ed7bb7",
+                  "furl": "sheridan-smith",
+                  "name": "Sheridan Smith",
+                  "profileImage": [
+                      {
+                          "_id": "59e4c920f9648a12d2ed7bb6",
+                          "altText": "sheridan main",
+                          "image": {
+                              "fileName": "sheridan main_940x526.jpg",
+                              "name": "sheridan main_940x526.jpg",
+                              "path": "one/lifestyle-legacy/95/36d5f/ce648/ec8e6/bf4e1/75473/20b0f",
+                              "mimeType": "image/jpeg"
+                          },
+                          "caption": "Sheridan Smith"
+                      }
+                  ],
+                  "composed": {
+                      "profileImage": [
+                          "59e4c920f9648a12d2ed7bb6"
+                      ]
+                  }
+              },
+              {
+                  "_id": "5b391b5f024d614b41cf6361",
+                  "furl": "alexandra-roach",
+                  "name": "Alexandra Roach",
+                  "heroImage": [
+                      {
+                          "_id": "5b391b5f024d614b41cf635b",
+                          "altText": "Alexandra Roach",
+                          "caption": "Alexandra Roach",
+                          "credits": "TMDB",
+                          "image": {
+                              "fileName": "jWJlrPYvdDN2kMCWKDkDnnFm1mP.jpg",
+                              "name": "jWJlrPYvdDN2kMCWKDkDnnFm1mP.jpg",
+                              "width": 1488,
+                              "height": 2048,
+                              "mimeType": "image/jpeg",
+                              "path": "one/empire-tmdb/people/237020/profiles"
+                          }
+                      }
+                  ],
+                  "composed": {
+                      "heroImage": [
+                          "5b391b5f024d614b41cf635b"
+                      ]
+                  }
+              },
+              {
+                  "_id": "5b391b04024d614b41cf235c",
+                  "furl": "rob-brydon",
+                  "name": "Rob Brydon",
+                  "heroImage": [
+                      {
+                          "_id": "5b391b04024d614b41cf234b",
+                          "altText": "Rob Brydon",
+                          "caption": "Rob Brydon",
+                          "credits": "TMDB",
+                          "image": {
+                              "fileName": "zMFBlPmqZXob9NLpOGadOCK5HNd.jpg",
+                              "name": "zMFBlPmqZXob9NLpOGadOCK5HNd.jpg",
+                              "width": 540,
+                              "height": 720,
+                              "mimeType": "image/jpeg",
+                              "path": "one/empire-tmdb/people/47632/profiles"
+                          }
+                      }
+                  ],
+                  "composed": {
+                      "heroImage": [
+                          "5b391b04024d614b41cf234b"
+                      ]
+                  }
+              },
+              {
+                  "_id": "5b391b04024d614b41cf234a",
+                  "furl": "nick-frost",
+                  "name": "Nick Frost",
+                  "heroImage": [
+                      {
+                          "_id": "5b391b04024d614b41cf2332",
+                          "altText": "Nick Frost",
+                          "caption": "Nick Frost",
+                          "credits": "TMDB",
+                          "image": {
+                              "fileName": "33zuHnAnM1aiUbDZX84GR7UQjTa.jpg",
+                              "name": "33zuHnAnM1aiUbDZX84GR7UQjTa.jpg",
+                              "width": 540,
+                              "height": 720,
+                              "mimeType": "image/jpeg",
+                              "path": "one/empire-tmdb/people/11109/profiles"
+                          }
+                      }
+                  ],
+                  "composed": {
+                      "heroImage": [
+                          "5b391b04024d614b41cf2332"
+                      ]
+                  }
+              },
+              {
+                  "_id": "59e4c91bf9648a12d2ed790d",
+                  "furl": "charlize-theron",
+                  "name": "Charlize Theron",
+                  "profileImage": [
+                      {
+                          "_id": "59e4c91bf9648a12d2ed790c",
+                          "altText": "135998188",
+                          "image": {
+                              "fileName": "135998188_1060x644.jpg",
+                              "name": "135998188_1060x644.jpg",
+                              "path": "one/lifestyle-images/people/569e46e2375e84fc0cc1b79f",
+                              "mimeType": "image/jpeg"
+                          },
+                          "caption": "Charlize Theron Style - Best Dresses & Outfits",
+                          "credits": ""
+                      }
+                  ],
+                  "composed": {
+                      "profileImage": [
+                          "59e4c91bf9648a12d2ed790c"
+                      ]
+                  }
+              },
+              {
+                  "_id": "59e4c914f9648a12d2ed7524",
+                  "furl": "emily-blunt",
+                  "name": "Emily Blunt",
+                  "profileImage": [
+                      {
+                          "_id": "59e4c914f9648a12d2ed7523",
+                          "altText": "16-1421386293-critics-choice-awards-2015-emily-blunt",
+                          "image": {
+                              "fileName": "16-1421386293-critics-choice-awards-2015-emily-blunt_1060x644.jpg",
+                              "name": "16-1421386293-critics-choice-awards-2015-emily-blunt_1060x644.jpg",
+                              "path": "one/lifestyle-images/people/569e46dc375e84fc0cc1b2cd",
+                              "mimeType": "image/jpeg"
+                          },
+                          "caption": "Emily Blunt",
+                          "credits": ""
+                      }
+                  ],
+                  "composed": {
+                      "profileImage": [
+                          "59e4c914f9648a12d2ed7523"
+                      ]
+                  }
+              },
+              {
+                  "_id": "59e4c91af9648a12d2ed78ba",
+                  "furl": "jessica-chastain",
+                  "name": "Jessica Chastain",
+                  "profileImage": [
+                      {
+                          "_id": "59e4c91af9648a12d2ed78b9",
+                          "altText": "rexfeatures_4251888r",
+                          "image": {
+                              "fileName": "rexfeatures_4251888r_700x1050.jpg",
+                              "name": "rexfeatures_4251888r_700x1050.jpg",
+                              "path": "one/lifestyle-images/people/569e46e1375e84fc0cc1b733",
+                              "mimeType": "image/jpeg"
+                          },
+                          "caption": "Jessica Chastain hit back at Russell Crowe\\\\\\'s comments on women in film [Pic: Rex]",
+                          "credits": ""
+                      }
+                  ],
+                  "composed": {
+                      "profileImage": [
+                          "59e4c91af9648a12d2ed78b9"
+                      ]
+                  }
+              },
+              {
+                  "_id": "59e4c91ff9648a12d2ed7b0d",
+                  "furl": "kristen-stewart",
+                  "name": "Kristen Stewart",
+                  "profileImage": [
+                      {
+                          "_id": "59e4c91ff9648a12d2ed7b0c",
+                          "altText": "rexfeatures_4383854a",
+                          "image": {
+                              "fileName": "rexfeatures_4383854a_700x1050.jpg",
+                              "name": "rexfeatures_4383854a_700x1050.jpg",
+                              "path": "one/lifestyle-images/people/569e46e5375e84fc0cc1ba1d",
+                              "mimeType": "image/jpeg"
+                          },
+                          "caption": "Kristen Stewart [Rex]",
+                          "credits": ""
+                      }
+                  ],
+                  "composed": {
+                      "profileImage": [
+                          "59e4c91ff9648a12d2ed7b0c"
+                      ]
+                  }
+              }
+          ],
+          "film": [
+              {
+                  "_id": "5b391d1a024d614b41d03a3c",
+                  "furl": "murderball",
+                  "title": "Murderball",
+                  "website": null
+              },
+              {
+                  "_id": "5b391d5b024d614b41d0546a",
+                  "furl": "the-huntsman-winter-war",
+                  "title": "The Huntsman: Winter's War",
+                  "website": ""
+              }
+          ],
+          "apiVersion": "1.0",
+          "createdAt": 1439588196087,
+          "createdBy": "testClient",
+          "history": [
+              "5b4daa001c8d81ee7e05771e",
+              "5b4daa011c8d81217c05771f"
+          ],
+          "v": 3,
+          "primaryPublication": {
+              "_id": "5b391ae2024d614b41cf03cd",
+              "name": "Empire",
+              "furl": "empire",
+              "hostname": {
+                  "_id": "59e4c911f9648a12d2ed73f5",
+                  "primary": "https://dev.empireonline.com"
+              },
+              "urlSlugHide": true,
+              "preview": null,
+              "stationCode": "",
+              "language": "en",
+              "googleAnalyticsId": "",
+              "fbiaAudienceNetworkPlacement1": "",
+              "composed": {
+                  "hostname": "59e4c911f9648a12d2ed73f5"
+              }
+          },
+          "urls": [
+              "empire/movies/news/sam-claflin-tackle-robin-friday-biopic/"
+          ],
+          "tags": [],
+          "presenter": [],
+          "tv": [],
+          "game": [],
+          "trackingPixel": [],
+          "sponsor": [],
+          "heroImageLandscape": [
+              {
+                  "width": 640,
+                  "height": 404.410480349345,
+                  "x": 0,
+                  "y": 0,
+                  "x2": 640,
+                  "y2": 404.410480349345,
+                  "_image": "5b391dd9024d614b41d0617a"
+              }
+          ],
+          "heroImagePortrait": [
+              {
+                  "width": 240.34985422740525,
+                  "height": 480,
+                  "x": 184.72303206997083,
+                  "y": 0,
+                  "x2": 425.0728862973761,
+                  "y2": 480,
+                  "_image": "5b391dd9024d614b41d0617a"
+              }
+          ],
+          "heroImageThumb": [
+              {
+                  "width": 427.2886297376093,
+                  "height": 480,
+                  "x": 80.23323615160349,
+                  "y": 0,
+                  "x2": 507.5218658892128,
+                  "y2": 480,
+                  "_image": "5b391dd9024d614b41d0617a"
+              }
+          ],
+          "heroImageThumbLandscape": [
+              {
+                  "width": 640,
+                  "height": 404.410480349345,
+                  "x": 0,
+                  "y": 0,
+                  "x2": 640,
+                  "y2": 404.410480349345,
+                  "_image": "5b391dd9024d614b41d0617a"
+              }
+          ],
+          "hidePublicationDate": false,
+          "author_custom": "",
+          "isAdvertorial": false,
+          "campaign_name": "",
+          "rating_extras": "",
+          "rating": "",
+          "verdict": "",
+          "nutshell": "",
+          "excerptOverride": "",
+          "canonical": "",
+          "trackingScript": {},
+          "openGraphDescription": "",
+          "openGraphTitle": "",
+          "excludeFromFBIA": false,
+          "excludeFromAppleNews": false,
+          "excludeFromCDP": false,
+          "lastModifiedAt": 1531816447324,
+          "lastModifiedBy": "testClient",
+          "composed": {
+              "tags": [],
+              "trackingPixel": [],
+              "images": [],
+              "sponsor": [],
+              "film": [
+                  "5b391d1a024d614b41d03a3c",
+                  "5b391d5b024d614b41d0546a"
+              ],
+              "tv": [],
+              "heroImage": [
+                  "5b391dd9024d614b41d0617a"
+              ],
+              "presenter": [],
+              "game": [],
+              "author": "5b391d8a024d614b41d06075",
+              "imageGalleries": [],
+              "publications": [
+                  "5b391ae2024d614b41cf03cd"
+              ],
+              "primaryPublication": "5b391ae2024d614b41cf03cd",
+              "categories": [
+                  "5b391ae2024d614b41cf03cc"
+              ],
+              "people": [
+                  "59e4c918f9648a12d2ed7774",
+                  "5b391bca024d614b41cf9732",
+                  "59e4c920f9648a12d2ed7bb7",
+                  "5b391b5f024d614b41cf6361",
+                  "5b391b04024d614b41cf235c",
+                  "5b391b04024d614b41cf234a",
+                  "59e4c91bf9648a12d2ed790d",
+                  "59e4c914f9648a12d2ed7524",
+                  "59e4c91af9648a12d2ed78ba",
+                  "59e4c91ff9648a12d2ed7b0d"
+              ]
+          }
+      }
+  ],
+  "metadata": {
+      "limit": 20,
+      "page": 1,
+      "fields": {},
+      "sort": {
+          "publicationDate": 1
+      },
+      "offset": 0,
+      "totalCount": 1,
+      "totalPages": 1
+  }
+}
